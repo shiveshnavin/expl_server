@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "230887695419",
+    "firebase_url": "https://mapzap-17187.firebaseio.com",
+    "project_id": "mapzap-17187",
+    "storage_bucket": "mapzap-17187.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230887695419:android:ae5d38fce8dd1a2f",
+        "android_client_info": {
+          "package_name": "nf.co.hoproject.mapnav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230887695419-0213st52d0fr0815bgedcaf2dm240ukc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdoVfGQqqpVvyJGgHbs-H8xkVjAFG9Prc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230887695419:android:4f77aca0850079d0",
+        "android_client_info": {
+          "package_name": "nf.co.hoproject.surround"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230887695419-0213st52d0fr0815bgedcaf2dm240ukc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdoVfGQqqpVvyJGgHbs-H8xkVjAFG9Prc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230887695419:android:303ed1f514a586be",
+        "android_client_info": {
+          "package_name": "in.hoptec.exploman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230887695419-arv6qrtnm6jv0o0rcle82d5mp8940uht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.hoptec.exploman",
+            "certificate_hash": "48f6cf1f755d464e8132c137274bdaea139c0851"
+          }
+        },
+        {
+          "client_id": "230887695419-0213st52d0fr0815bgedcaf2dm240ukc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdoVfGQqqpVvyJGgHbs-H8xkVjAFG9Prc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230887695419-0213st52d0fr0815bgedcaf2dm240ukc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

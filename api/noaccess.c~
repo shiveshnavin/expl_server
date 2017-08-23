@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+ 
+int main(int argc, char *argv[])   //  command line arguments
+{
+
+ 
+   if(argv[1]!=null)
+   printf("\n%s \n", argv[1]); 
+else
+   printf("\nCommand Access Denied ! \n"); 
+ 
+return 0;
+}

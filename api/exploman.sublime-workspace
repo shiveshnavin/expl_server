@@ -1,0 +1,486 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"exce",
+				"execute"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"user",
+				"user_name"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"f",
+				"for\tAttr"
+			],
+			[
+				"group",
+				"group_users"
+			],
+			[
+				"arr",
+				"arrayName"
+			],
+			[
+				"req",
+				"require_once"
+			],
+			[
+				"uer",
+				"user_name"
+			],
+			[
+				"str_rep",
+				"str_replace"
+			],
+			[
+				"js",
+				"json_encode"
+			],
+			[
+				"strrep",
+				"str_replace"
+			],
+			[
+				"REQ",
+				"_REQUEST"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"jso",
+				"json_last_error"
+			],
+			[
+				"vide",
+				"video_url"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"use",
+				"user_name"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"us",
+				"user_name"
+			],
+			[
+				"erro",
+				"error_reporting"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"user_",
+				"user_role"
+			],
+			[
+				"des",
+				"desc"
+			],
+			[
+				"arra",
+				"array\t$… = array (…)"
+			],
+			[
+				"exe",
+				"execute"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"rate",
+				"rates"
+			],
+			[
+				"json_ed",
+				"json_encode"
+			],
+			[
+				"name",
+				"display_name"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"git"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/lampp/htdocs/exploman",
+		"/opt/lampp/htdocs/exploman/cpanel"
+	],
+	"file_history":
+	[
+		"/opt/lampp/htdocs/dcom/index.php",
+		"/opt/lampp/htdocs/users/userinfo.php",
+		"/opt/lampp/htdocs/exploman/api/config.inc.php",
+		"/opt/lampp/htdocs/exploman/cpanel/add_guide.php",
+		"/opt/lampp/htdocs/pow/api/config.inc.php",
+		"/opt/lampp/htdocs/exploman/api/api_exploman.php",
+		"/opt/lampp/htdocs/exploman/cpanel/guides.php",
+		"/opt/lampp/htdocs/exploman/cpanel/index.php",
+		"/opt/lampp/htdocs/exploman/cpanel/add_place.php",
+		"/opt/lampp/htdocs/exploman/cpanel/places.php",
+		"/opt/lampp/htdocs/exploman/api/api_rev.php",
+		"/opt/lampp/htdocs/exploman/area51/genric.php",
+		"/opt/lampp/htdocs/exploman/cpanel/header.php",
+		"/opt/lampp/htdocs/exploman/cpanel/add_place.html",
+		"/opt/lampp/htdocs/exploman/cpanel/footer.php",
+		"/home/shivesh/Downloads/fixed-table-header/templated-assembly/index.html",
+		"/opt/lampp/htdocs/exploman/cpanel/genric.php",
+		"/opt/lampp/htdocs/exploman/add.php",
+		"/opt/lampp/htdocs/exploman/area51/index.php",
+		"/opt/lampp/htdocs/exploman/area51/index.html",
+		"/home/shivesh/Downloads/fixed-table-header/cssmenu/index.html",
+		"/opt/lampp/htdocs/exploman/area51/css/menu_styles.css",
+		"/opt/lampp/htdocs/exploman/area51/CodePen - _Table_ Responsive_files/qdIsm.html",
+		"/opt/lampp/htdocs/exploman/area51/CodePen - _Table_ Responsive.html",
+		"/opt/lampp/htdocs/exploman/area51/style.css",
+		"/opt/lampp/htdocs/exploman/index.php",
+		"/opt/lampp/htdocs/exploman/area51/process.php",
+		"/opt/lampp/htdocs/exploman/area51/form.php",
+		"/opt/lampp/htdocs/genric/file_upload.php",
+		"/opt/lampp/htdocs/exploman/area51/connect.php",
+		"/opt/lampp/htdocs/exploman/login.php",
+		"/opt/lampp/htdocs/exploman/places.php",
+		"/opt/lampp/htdocs/pow/upload.php",
+		"/opt/lampp/htdocs/exploman/index.html",
+		"/opt/lampp/htdocs/users/headers/h_admin.php",
+		"/opt/lampp/htdocs/users/api/api.php",
+		"/opt/lampp/htdocs/users/api/playground/phpterm.php",
+		"/opt/lampp/htdocs/users/headers/manage_user.php",
+		"/opt/lampp/htdocs/users/headers/create_customer.php",
+		"/opt/lampp/htdocs/users/headers/manage_users.php",
+		"/opt/lampp/htdocs/users/headers/users.php",
+		"/opt/lampp/htdocs/users/headers/groups.php",
+		"/opt/lampp/htdocs/users/headers/group_header.php",
+		"/opt/lampp/htdocs/users/api/api_rev.php",
+		"/opt/lampp/htdocs/users/headers/create_role.php",
+		"/opt/lampp/htdocs/users/headers/role_requests.php",
+		"/opt/lampp/htdocs/users/roles.php",
+		"/opt/lampp/htdocs/users/login_rdr.php",
+		"/opt/lampp/htdocs/users/headers/roles.php",
+		"/opt/lampp/htdocs/users/headers/view.php",
+		"/opt/lampp/htdocs/users/headers/login_header.php",
+		"/opt/lampp/htdocs/users/my_requests.php",
+		"/opt/lampp/htdocs/users/request_group.php",
+		"/opt/lampp/htdocs/users/group_details.php",
+		"/opt/lampp/htdocs/users/managegroup.php",
+		"/opt/lampp/htdocs/users/check_role_header.php",
+		"/opt/lampp/htdocs/users/users.php",
+		"/opt/lampp/htdocs/users/role_requests.php",
+		"/opt/lampp/htdocs/users/api/config.inc.php",
+		"/opt/lampp/htdocs/users/headers/managescript.php",
+		"/opt/lampp/htdocs/users/headers/disable_group_users.php",
+		"/opt/lampp/htdocs/users/headers/h_sap_manager.php",
+		"/opt/lampp/htdocs/users/myroles.php",
+		"/opt/lampp/htdocs/users/headers/h_manager.php",
+		"/opt/lampp/htdocs/users/headers/managegroup.php",
+		"/opt/lampp/htdocs/users/roles (copy).php",
+		"/opt/lampp/htdocs/users/headers/manage_cmds.php",
+		"/opt/lampp/htdocs/users/headers/group_users.php",
+		"/opt/lampp/htdocs/users/headers/h_sto_manager.php",
+		"/opt/lampp/htdocs/users/headers/h_net_manager.php",
+		"/opt/lampp/htdocs/users/headers/scripts.php",
+		"/opt/lampp/htdocs/users/headers/group_requests.php",
+		"/opt/lampp/htdocs/users/manageroles.php",
+		"/opt/lampp/htdocs/users/cpanel.php",
+		"/opt/lampp/htdocs/users/managescript.php",
+		"/opt/lampp/htdocs/users/index.php",
+		"/opt/lampp/htdocs/users/acl.sublime-project",
+		"/opt/lampp/htdocs/users/users.zip",
+		"/opt/lampp/htdocs/users/headers/api/api.php",
+		"/opt/lampp/htdocs/users/api/check_role_header.php",
+		"/opt/lampp/htdocs/users/tmp.php",
+		"/opt/lampp/htdocs/users/api/header_admin.php",
+		"/opt/lampp/htdocs/users/api/tmp.php",
+		"/opt/lampp/htdocs/users/scripts.php",
+		"/opt/lampp/htdocs/users/api/header_mod.php",
+		"/opt/lampp/htdocs/genric/api/api.php",
+		"/opt/lampp/htdocs/genric/api/api_videos.php",
+		"/opt/lampp/htdocs/genric/api/latest_videos.php",
+		"/opt/lampp/htdocs/genric/api/report.php",
+		"/opt/lampp/htdocs/genric/api/api_social.php",
+		"/run/user/1000/gvfs/sftp:host=128.199.75.208/root/home/var/www/html/test/stream.php",
+		"/opt/lampp/htdocs/genric/api/stream.php",
+		"/opt/lampp/htdocs/genric/api/file_upload.php",
+		"/opt/lampp/htdocs/genric/api/file_upload (copy).php",
+		"/run/user/1000/gvfs/sftp:host=128.199.75.208/root/home/var/www/html/test/file_upload.php",
+		"/opt/lampp/htdocs/genric/api/upload_video.php",
+		"/opt/lampp/htdocs/genric/api/file_upload.html",
+		"/opt/lampp/htdocs/OLD_12JULY_2017/payu/pay.php",
+		"/opt/lampp/htdocs/OLD_12JULY_2017/upload.php",
+		"/opt/lampp/htdocs/genric/api/comments.php",
+		"/opt/lampp/htdocs/genric/api/createuser.php",
+		"/opt/lampp/htdocs/genric/video_requests.php",
+		"/opt/lampp/htdocs/genric/reports.php",
+		"/opt/lampp/htdocs/genric/index.php",
+		"/opt/lampp/htdocs/genric/login.php",
+		"/opt/lampp/htdocs/genric/api/api_fcm.php",
+		"/opt/lampp/htdocs/genric/api/config.inc.php",
+		"/opt/lampp/htdocs/cms/index.php",
+		"/opt/lampp/htdocs/genric/latest_videos.php",
+		"/opt/lampp/htdocs/genric/api/video_requests.php",
+		"/opt/lampp/htdocs/genric/api/comment.php",
+		"/opt/lampp/htdocs/genric/api/share.php",
+		"/opt/lampp/htdocs/genric/api/like.php",
+		"/home/shivesh/Downloads/appland/index.html",
+		"/home/shivesh/Downloads/layoutit/src/index.html",
+		"/opt/lampp/htdocs/genric/api/share1.php",
+		"/opt/lampp/htdocs/genric/api/share.html",
+		"/opt/lampp/htdocs/genric/api/register_fcm.php",
+		"/opt/lampp/htdocs/genric/api/login.php",
+		"/opt/lampp/htdocs/cms/api/api.php",
+		"/opt/lampp/htdocs/genric/api/checkuser.php",
+		"/opt/lampp/htdocs/cms/api/config.inc.php",
+		"/opt/lampp/htdocs/users/api/playground/login_terminal.php",
+		"/opt/lampp/htdocs/users/group_requests_mod.php",
+		"/opt/lampp/htdocs/users/api/join_group.php",
+		"/opt/lampp/htdocs/users/view.php",
+		"/opt/lampp/htdocs/users/group_requests.php",
+		"/opt/lampp/htdocs/users/api/exit_group.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"HI",
+			"Creadint",
+			"PENDING",
+			"getgroup",
+			"fileToUpload",
+			"sendfcmtotopic",
+			"W3.CSS Template_files",
+			"_REQUEST",
+			"group(",
+			"group",
+			"login",
+			"getuser",
+			"view",
+			"`dist`",
+			"echo $sql",
+			"`test`.",
+			"0b1",
+			"0x00000000",
+			"group",
+			"vid",
+			"getcwd",
+			"log()",
+			"nobody",
+			"@$",
+			"@",
+			"$user",
+			"clear",
+			"_POST",
+			"checkPassword",
+			"this->",
+			"\\'",
+			"\\',",
+			"$_POST",
+			"command",
+			"mail(",
+			"register_",
+			"authenticate",
+			"authenti",
+			"strong",
+			"cc_auto_activate_on_user_signup",
+			"signup_finished",
+			"registration_red",
+			"mail(",
+			"register_user",
+			"ERROR",
+			"service_provider",
+			"1979-09-16T05:25:07Z"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"file",
+			"share_html",
+			"GET",
+			"`'.$GLOBALS[\"mysql_database\"].'`",
+			" ",
+			"",
+			"0b0",
+			"0b00000000",
+			"video_url",
+			"",
+			"'.",
+			".',",
+			"2017-03-16T05:25:07Z"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "exploman.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 240.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
